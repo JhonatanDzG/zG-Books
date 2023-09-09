@@ -13,14 +13,24 @@ El proyecto **zG-Books** tiene como fin gestionar la siguiente información de l
 
 ## Funcionalidades
 
+- Agregar nuevos libros
+- Eliminar libros
 - Buscar/filtrar libros por:
   - Autor
   - Titulo
   - Género
   - Fecha de publicación
   - Editorial
-- Agregar nuevos libros
-- Eliminar libros
+- Book state
+    - Leído
+    - Pendiente
+    - Leer nuevamente
+
+## Componentes
+
+- Home
+    - Books
+- About
 
 
 ## Ejemplo de Base de Datos (from GPT 3.5)
