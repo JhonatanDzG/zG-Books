@@ -27,7 +27,7 @@ El proyecto **zG-Books** tiene como fin gestionar la siguiente informacion de lo
     {
         "libros": [
         {
-          "titulo": "El misterio del libro perdido",
+          "tituglo": "El misterio del libro perdido",
           "autor": "Laura García",
           "genero": "Misterio",
           "anio_publicacion": 2010,
