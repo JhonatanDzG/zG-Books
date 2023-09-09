@@ -2,7 +2,7 @@
 
 ## Description
 
-El proyecto **zG-Books** tiene como fin gestionar la siguiente informacion de los libros que se requieran:
+El proyecto **zG-Books** tiene como fin gestionar la siguiente información de los libros que se requieran:
 
 - Título
 - Autor
